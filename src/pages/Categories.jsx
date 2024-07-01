@@ -1,5 +1,11 @@
+
+
 export default function Categories() {
     return (
-        <div>Categories</div>
+        <>
+            <h5>Categories</h5>
+        </>
+        
+
     );
 }
